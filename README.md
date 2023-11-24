@@ -14,7 +14,7 @@ output:
 # Header 1 {#header_1}
 
 \
-Link to [header 2](#header_2)\
+Link to [header 2]{#header_2}\
 [Bioinformatics](https://training.cam.ac.uk/bioinformatics/event-timetable)
 
 # Header 2 {#header_2}
@@ -24,7 +24,7 @@ Test[^1].
 
 [^1]: This is the first footnote.
 
-Test number 2[\^2].
+Test number 2[^2].
 
 ## List
 
@@ -56,7 +56,7 @@ Test number 2[\^2].
 |:-----|:------:|------:|
 | Test |  Test  |  Test |
 
-## [\^2]: This is the second footnote.
+[\^2]: This is the second footnote.
 
 Hello, Website!
 
