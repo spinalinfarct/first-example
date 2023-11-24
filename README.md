@@ -37,7 +37,7 @@ Test number 2[^2].
         i.  Finicky
         ii. Not intuitive
     b.  Utility
-2.  Can't think of any others\
+2.  Can't think of any others
 
 -   Testing bullet points
 
