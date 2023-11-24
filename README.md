@@ -22,19 +22,21 @@ Link to [header 2]{#header_2}\
 \
 Test[^1].
 
+
 [^1]: This is the first footnote.
+
 
 Test number 2[^2].
 
-
+[^2]: This is the second footnote.
 
 ## List
 
-1.  List of issues\
-    a.  Syntax trickery\
-        i.  Finicky\
-        ii. Not intuitive\
-    b.  Utility\
+1.  List of issues
+    a.  Syntax trickery
+        i.  Finicky
+        ii. Not intuitive
+    b.  Utility
 2.  Can't think of any others\
 
 -   Testing bullet points
@@ -59,5 +61,3 @@ Test number 2[^2].
 | Left | Centre | Right |
 |:-----|:------:|------:|
 | Test |  Test  |  Test |
-
-[^2]: This is the second footnote.
