@@ -14,7 +14,13 @@ output:
 # Header 1 {#header_1}
 
 \
-Link to [header 2]{#header_2}\
+
+[Link to header 2]{#header_2}
+
+
+\
+
+
 [Bioinformatics](https://training.cam.ac.uk/bioinformatics/event-timetable)
 
 # Header 2 {#header_2}
@@ -33,11 +39,15 @@ Test number 2[^2].
 ## List
 
 1.  List of issues
+
     a.  Syntax trickery
+    
         i.  Finicky
         ii. Not intuitive
+    
     b.  Utility
-2.  Can't think of any others
+    
+4.  Can't think of any others
 
 -   Testing bullet points
 
